@@ -10,6 +10,9 @@ In this project, there will be another option. If the customer question is about
 
 To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not. This will improve the answers returned from the queries.
 
+### Project Demonstration Video
+
+YouTube link: [Intelligent Customer Help Desk with Smart Document Understanding](https://youtu.be/CAm9FL4etRs)
 
 
 
