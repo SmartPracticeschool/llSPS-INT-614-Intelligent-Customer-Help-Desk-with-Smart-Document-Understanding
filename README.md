@@ -14,6 +14,10 @@ To take it a step further, the project shall use the Smart Document Understandin
 
 YouTube link: [Intelligent Customer Help Desk with Smart Document Understanding](https://youtu.be/CAm9FL4etRs)
 
+### Feedback Video
+
+YouTube link: [Feedback- SmartInternz](https://youtu.be/HL-kLHxYvL0)
+
 
 
 
